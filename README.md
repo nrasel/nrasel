@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://nervous-curran-c9e032.netlify.app/](https://dev-naimur.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dev-naimur.netlify.app/](https://dev-naimur.netlify.app/)
 
 - 💬 Ask me about **react**
 
