@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://nervous-curran-c9e032.netlify.app/](https://nervous-curran-c9e032.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nervous-curran-c9e032.netlify.app/](https://dev-naimur.netlify.app/)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **rnaimur313@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1il93184jWWz6XAOa69m4qwOWGXJML6mj/view?usp=sharing](https://drive.google.com/file/d/1il93184jWWz6XAOa69m4qwOWGXJML6mj/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OpoiGiofiaYKxIpv-Dg42zkR4izrKwmr/view?usp=sharing)
 
 - ⚡ Fun fact **I love to explore different countries.**
 
