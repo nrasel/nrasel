@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
-<h3 align="center">I am a passionate junior frontend developer from Bangladesh. My goal is to become a good full stack developer and have a lot of experience.</h3>
+<h3 align="center">I am a passionate junior MERN Stack developer from Bangladesh. My goal is to become a good full stack developer and have a lot of experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrasel&label=Profile%20views&color=0e75b6&style=flat" alt="nrasel" /> </p>
 
