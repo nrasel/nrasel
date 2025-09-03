@@ -20,7 +20,7 @@
 - 💻 **Software Developer — SubSpace Grow90 (Jun 2021 – Nov 2022)**  
   Built responsive UI, integrated REST APIs, and collaborated on new features.  
 
-- 🌐 **Frontend Developer Intern — Dutypedia (Jan 2022 – May 2022)**  
+- 💻 **Frontend Developer Intern — Dutypedia (Jan 2022 – May 2022)**  
   Developed dashboards, responsive pages, and resolved UI bugs.  
 
 <h3 align="left">Education:</h3>
@@ -55,19 +55,31 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="github" width="40" height="40"/>
   </a>
   <!-- TIA Portal -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/TIA_Logo.svg" alt="TIA Portal" width="40" height="40"/>
+   <a href="https://innovesys.com/wp-content/uploads/2024/05/TIA-Portal.jpg" target="_blank" rel="noreferrer">
+    <img src="https://innovesys.com/wp-content/uploads/2024/05/TIA-Portal.jpg" alt="TIA Portal" width="40" height="40"/>
+  </a>
+ 
   <!-- Factory I/O -->
-  <img src="https://i.imgur.com/2ssvM4N.png" alt="Factory I/O" width="40" height="40"/>
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLrNP4mJTT_0Hl3YJMBPKrCgZFjhiOeIRm3Q&s" target="_blank" rel="noreferrer">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLrNP4mJTT_0Hl3YJMBPKrCgZFjhiOeIRm3Q&s" alt="Factory I/O" width="40" height="40"/>
+  </a>
+  
   <!-- WinCC / SIMATIC -->
-  <img src="https://pnghut.com/png/hAFuB46Gw2/siemens-logo-simatic-step-7-service-wincc-gamesa-renewable-energy-transparent-png" alt="WinCC / SIMATIC" width="40" height="40"/>
-  <!-- Siemens (for other tools) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Siemens_Logo_2023.svg" alt="Siemens" width="40" height="40"/>
+  <a href="https://5.imimg.com/data5/SELLER/Default/2025/6/515572045/MH/IK/IN/86343204/3d-1427-1-jpg.jpg" target="_blank" rel="noreferrer">
+    < <img src="https://5.imimg.com/data5/SELLER/Default/2025/6/515572045/MH/IK/IN/86343204/3d-1427-1-jpg.jpg" alt="WinCC / SIMATIC" width="40" height="40"/>
+  </a>
+ 
+ 
+  
   <!-- GX Works2 (Mitsubishi) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Mitsubishi_logo.svg" alt="GX Works2" width="40" height="40"/>
+  <a href="https://www.mitsubishielectric.co.id/media/upload/gellery/GX%20Works2sbZRPaL6974d75Z.jpg" target="_blank" rel="noreferrer">
+    <img src="https://www.mitsubishielectric.co.id/media/upload/gellery/GX%20Works2sbZRPaL6974d75Z.jpg" alt="GX Works2" width="40" height="40"/>
+  </a>
+  
 </p>
 
 
