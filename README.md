@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Naimur Rahman</h1>
-<h3 align="center">Electrical & Electronic Engineering graduate (PUST) | PLC(S7-200, S7-300, S7-1200), VFD, HMI Automation & Full-Stack Developer</h3>
+<h3 align="center">Electrical & Electronic Engineering graduate (PUST) | PLC(S7-200, S7-300, S7-1200), VFD, HMI Industry Automation, AutoCAD Electrical(2D) & Full-Stack Developer</h3>
 
 
 
