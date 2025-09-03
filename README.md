@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently seeking opportunity to work on Automation Industry **PLC/HMI simulation projects** (Siemens S7, WinCC, Factory I/O)  
+- 🔭 I’m currently seeking an opportunity to work on Automation Industry based on the knowlede on **PLC(S7-200, S7-300, S7-1200), VFD, HMI and AutoCAD Electrical(2D)**   
 - 🌱 I’m currently learning **Advanced Automation**
 - 🌱 Have Experience about **Full-Stack Web Developement**  
 - 🧰 My portfolio projects:  
