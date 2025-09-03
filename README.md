@@ -8,7 +8,7 @@
 - 🌱 Have Experience about **Full-Stack Web Developement**  
 - 🧰 My portfolio projects:  
    - **Automated Warehouse** (S7-300 + Factory I/O)  
-   - **Automated Water Tank Filling** (S7-1500 + TP700 HMI + WinCC)  
+   - **Automated Water Tank Filling** (S7-1500 + TP700 HMI)  
    - **Residential House Wiring & Conduit Layouts** (AutoCAD Electrical 2D)  
 - 💬 Ask me about **React, Node.js, PLC Ladder Logic, HMI design**  
 - 📫 How to reach me: **naimur3720@gmail.com** | **+8801605324244**  
